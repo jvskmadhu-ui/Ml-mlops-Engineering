@@ -1,0 +1,7 @@
+2026-03-25 11:02:40,733 - INFO - Job started
+2026-03-25 11:02:40,735 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-25 11:02:40,782 - INFO - Rows loaded: 10000
+2026-03-25 11:02:40,793 - INFO - Rolling mean computed
+2026-03-25 11:02:40,797 - INFO - Signal generated
+2026-03-25 11:02:40,798 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': np.float64(0.4989), 'latency_ms': 64, 'seed': 42, 'status': 'success'}
+2026-03-25 11:02:40,798 - INFO - Job completed successfully
